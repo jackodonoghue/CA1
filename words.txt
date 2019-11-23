@@ -1,0 +1,4 @@
+dictionary
+hi
+jack
+test
